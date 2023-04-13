@@ -1,2 +1,2 @@
-# curso-andres
-este es un repositorio de prueba1
+andres soldevila
+esta es una prueba 
